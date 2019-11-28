@@ -25,7 +25,7 @@ SECRET_KEY = 'r0u&a51sg1$7&mfk$upftz3z$*lt7k3rsk1m8hxt)cdzd2ie&0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanuwhare.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'ossmium.pythonanuwhare.com']
 
 
 # Application definition
